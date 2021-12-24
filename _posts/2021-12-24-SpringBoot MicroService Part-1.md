@@ -2,7 +2,7 @@
 layout: post
 title:  "SpringBoot MicroService Part-1"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ SpringBoot, tutorial ]
 image: assets/images/16.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
